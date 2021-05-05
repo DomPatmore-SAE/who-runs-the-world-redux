@@ -1,4 +1,4 @@
-leaders=[
+{data:{leaders:[
     {
         FirstName: 'Sanna',
         LastName: 'Marin',
@@ -41,4 +41,4 @@ leaders=[
         Country: 'Germany',
         DateAppointed: '2005-11-22'
     }
-]
+]}}
